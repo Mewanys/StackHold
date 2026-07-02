@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Base
+  - Block
+  - BasePlatform
+  - KillZone
   layers:
   - Default
   - TransparentFX
